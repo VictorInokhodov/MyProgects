@@ -63,7 +63,8 @@ namespace ClassLibrary1
         {
             get
             {
-                return new DateTime((DateTime.Now.Date - dateOfBirth.Date).Ticks).Year;
+
+                return new DateTime((DateTime.Now.Date - dateOfBirth.Date).Ticks).Year - 1;
             }
         }
 
