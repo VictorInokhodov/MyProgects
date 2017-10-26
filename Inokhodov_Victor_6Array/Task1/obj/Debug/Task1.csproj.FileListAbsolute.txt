@@ -1,0 +1,8 @@
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6Array\Task1\bin\Debug\Task1.exe.config
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6Array\Task1\bin\Debug\Task1.exe
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6Array\Task1\bin\Debug\Task1.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6Array\Task1\obj\Debug\Task1.exe
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6Array\Task1\obj\Debug\Task1.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6Array\Task1\bin\Debug\Arrays.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6Array\Task1\bin\Debug\Arrays.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6Array\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache

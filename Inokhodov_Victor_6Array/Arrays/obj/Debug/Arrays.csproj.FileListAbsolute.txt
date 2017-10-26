@@ -1,0 +1,10 @@
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6DynamicArray\Arrays\bin\Debug\Arrays.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6DynamicArray\Arrays\bin\Debug\Arrays.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6DynamicArray\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6DynamicArray\Arrays\obj\Debug\Arrays.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_6DynamicArray\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Victor\Documents\Visual Studio 2017\Projects\Inokhodov_Victor_6Array\Arrays\bin\Debug\Arrays.dll
+C:\Users\Victor\Documents\Visual Studio 2017\Projects\Inokhodov_Victor_6Array\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Victor\Documents\Visual Studio 2017\Projects\Inokhodov_Victor_6Array\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2017\Projects\Inokhodov_Victor_6Array\Arrays\obj\Debug\Arrays.dll
+C:\Users\Victor\Documents\Visual Studio 2017\Projects\Inokhodov_Victor_6Array\Arrays\obj\Debug\Arrays.pdb
