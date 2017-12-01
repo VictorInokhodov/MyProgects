@@ -1,0 +1,5 @@
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Entities\bin\Debug\Entities.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Entities\bin\Debug\Entities.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Entities\obj\Debug\Entities.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,9 @@
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.BLL\bin\Debug\Department.BLL.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.BLL\bin\Debug\Department.BLL.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.BLL\bin\Debug\Department.DAL.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.BLL\bin\Debug\Entities.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.BLL\bin\Debug\Department.DAL.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.BLL\bin\Debug\Entities.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.BLL\obj\Debug\Department.BLL.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.BLL\obj\Debug\Department.BLL.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.BLL\obj\Debug\Department.BLL.pdb

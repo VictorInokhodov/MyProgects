@@ -1,0 +1,17 @@
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.MainForm.resources
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.RewardForm.resources
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.UserForm.resources
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\WinForms.exe.config
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\WinForms.exe
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\WinForms.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Entities.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Entities.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.exe
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.BLL.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.DAL.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.BLL.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.DAL.pdb

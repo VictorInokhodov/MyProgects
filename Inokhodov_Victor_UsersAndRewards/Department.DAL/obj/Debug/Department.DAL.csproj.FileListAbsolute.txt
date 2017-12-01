@@ -1,0 +1,7 @@
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.DAL\bin\Debug\Department.DAL.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.DAL\bin\Debug\Department.DAL.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.DAL\bin\Debug\Entities.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.DAL\bin\Debug\Entities.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.DAL\obj\Debug\Department.DAL.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.DAL\obj\Debug\Department.DAL.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\Department.DAL\obj\Debug\Department.DAL.pdb
