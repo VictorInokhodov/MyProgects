@@ -1,0 +1,71 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <h1>Users and rewards</h1>
+        <div>
+            <h3>Users:</h3>
+            <table>
+                <tr>
+                    <td><p>ID</p></td>
+                    <td><p>First name</p></td>
+                    <td><p>Last name</p></td>
+                    <td><p>Birth day</p></td>
+                    <td><p>Age</p></td>
+                    <td><p>Rewards</p></td>
+                </tr>
+                @foreach (var u in ViewBag.Users)
+                {
+                    <tr>
+                        <td><p>@u.Id</p></td>
+                        <td><p>@u.FirstName</p></td>
+                        <td><p>@u.LastName</p></td>
+                        <td><p>@u.Birthdate.ToShortDateString()</p></td>
+                        <td><p>@u.Age</p></td>
+                        <td><p>@u.Rewards</p></td>
+                        <td><p><a href="/User/DeleteUser?userId=@u.Id">Delete</a></p></td>
+                        <td><p><a href="/User/UpdateUser/userId=@u.Id">Update</a></p></td>
+                    </tr>
+                }
+            </table>
+            <a href="/User/AddUser">Add new user</a>
+            <h3>Rewards:</h3>
+            <table>
+                <tr>
+                    <td><p>ID</p></td>
+                    <td><p>Title</p></td>
+                    <td><p>Description</p></td>
+                </tr>
+                @foreach (var r in ViewBag.Rewards)
+                {
+                    <tr>
+                        <td><p>@r.ID</p></td>
+                        <td><p>@r.Title</p></td>
+                        @if (r.Description == null)
+                        {
+                            <td><p>No description</p></td>
+                        }
+                        else
+                        {
+                            <td><p>@r.Description</p></td>
+                        }
+                        <td><p><a href="/Reward/Delete?rewardId=@r.ID">Delete</a></p></td>
+                        <td><p><a href="/Reward/Save?rewardId=@r.ID">Update</a></p></td>
+                    </tr>
+                }
+            </table>
+            <a href="/Reward/Save">Add new reward</a>
+        </div>
+    </div>
+</body>
+</html>

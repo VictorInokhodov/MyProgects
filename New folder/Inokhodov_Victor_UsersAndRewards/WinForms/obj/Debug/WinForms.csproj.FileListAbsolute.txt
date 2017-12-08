@@ -1,0 +1,79 @@
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.MainForm.resources
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.RewardForm.resources
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.UserForm.resources
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\WinForms.exe.config
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\WinForms.exe
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\WinForms.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Entities.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Entities.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.exe
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.BLL.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.DAL.dll
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.BLL.pdb
+c:\users\victor\documents\visual studio 2017\Projects\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.DAL.pdb
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\csc.exe
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\csc.exe.config
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\csc.rsp
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\csi.exe
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\csi.rsp
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\vbc.exe
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\vbc.rsp
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\WinForms.exe
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\WinForms.pdb
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.BLL.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Entities.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\UsersAndRewardsWeb.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.DAL.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.Razor.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.WebPages.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.BLL.pdb
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Entities.pdb
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\UsersAndRewardsWeb.pdb
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\UsersAndRewardsWeb.dll.config
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\Department.DAL.pdb
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.Razor.xml
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.WebPages.xml
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.MainForm.resources
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.RewardForm.resources
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.UserForm.resources
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.exe
+C:\Users\Victor\Desktop\EPAM\Inokhodov_Victor_UsersAndRewards\WinForms\obj\Debug\WinForms.pdb

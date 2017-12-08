@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save</title>
+</head>
+<body>
+    <div> 
+        <h3>User page</h3>
+        <form method="post">
+            <input type="hidden" value="@ViewBag.User.ID" name="ID" />
+            <table>
+                <tr>
+                    <td>First name: </td>
+                    <td><input type="text" value="@ViewBag.User.FName" name="FName" /></td>
+                </tr>
+                <tr>
+                    <td>Last name: </td>
+                    <td><input type="text" value="@ViewBag.User.LName" name="LName" /></td>
+                </tr>
+                <tr>
+                    <td>Birthday: </td>
+                    <td><input type="datetime" value="@ViewBag.User.DateOfBirth" name="DateOfBirth" /></td>
+                </tr>
+            </table>
+            <p>
+                <table>
+                    @foreach (var r in ViewBag.AllRewards)
+                    {
+                        <tr>
+                            <td>@r.Title</td>
+                            <td><input type="checkbox" name="names" value="@r.Title" /></td>
+                        </tr>
+                    }
+                </table>
+            </p>
+            <input type="submit" value="OK" />
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save</title>
+</head>
+<body>
+    <div> 
+        <h3>Reward page</h3>
+        <form method="post">
+            <input type="hidden" value="@ViewBag.Reward.ID" name="ID" />
+            <p>Title: <input type="text" value="@ViewBag.Reward.Title" name="Title" /></p>
+            <p>Description: <input type="text" value="@ViewBag.Reward.Description" name="Description" /></p>
+            <input type="submit" value="OK" />
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+﻿body {
+    font-size: 13px;
+    font-family: Verdana, Arial, Helvetica, Sans-Serif;
+    background-color: #B0E0E6;
+    padding-left: 40px;
+}
+table {
+    vertical-align: middle;
+    text-align: left;
+    border: thin;
+}
+td {
+    padding-right: 10px;
+}
+
+input {
+    width: 150px;
+}
